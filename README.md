@@ -7,7 +7,10 @@
 
 [📖 View detailed README](./problem1/README.md)
 
-**Run**: `cd problem1 && node index.js`
+**Run**: 
+```bash
+cd problem1 && node index.js
+```
 
 ---
 
@@ -20,7 +23,10 @@
 
 [📖 View detailed README](./problem2/README.md)
 
-**Run**: `cd "problem2" && npm install && npm run dev`
+**Run**: 
+```bash
+cd "problem2" && npm install && npm run dev
+```
 
 ---
 
