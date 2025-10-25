@@ -29,4 +29,4 @@
 
 **Solution**: Identified 12 issues (bugs, performance, code quality) and refactored to production-ready code.
 
-[📖 View detailed README](./problem3/README.md)# coding-challenge-fe
+[📖 View detailed README](./problem3/README.md)
